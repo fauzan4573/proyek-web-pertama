@@ -2,6 +2,7 @@
 - Nama     : Muhammad Fauzan
 - NPM      : 4523210073
 - Tanggal  : 19 September 2025
+- Dosen    : Adi Wahyu Pribadi, S.Si., M.Kom
 ## Instalasi & Konfigurasi Awal Git
 1. Unduh installer versi windows: https://git-scm.com/downloads/win
 <img width="1919" height="1078" alt="Screenshot 2025-09-26 070135" src="https://github.com/user-attachments/assets/5109daea-810c-47a8-9ad8-cf61ede05b2b" />
